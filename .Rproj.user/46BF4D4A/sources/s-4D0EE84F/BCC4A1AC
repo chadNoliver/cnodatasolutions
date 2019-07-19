@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563560072958.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BCC4A1AC",
+    "lastKnownWriteTime" : 1563558963,
+    "last_content_update" : 1563558963,
+    "path" : "~/cnodatasolutions/themes/hermit/.editorconfig",
+    "project_path" : "themes/hermit/.editorconfig",
+    "properties" : {
+        "cursorPosition" : "4,3",
+        "scrollLine" : "1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

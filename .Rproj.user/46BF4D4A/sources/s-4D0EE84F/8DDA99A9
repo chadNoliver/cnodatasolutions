@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563560183191.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4185452316",
+    "id" : "8DDA99A9",
+    "lastKnownWriteTime" : 1563560346,
+    "last_content_update" : 1563560346158,
+    "path" : "~/cnodatasolutions/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "65,15",
+        "scrollLine" : "53"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
