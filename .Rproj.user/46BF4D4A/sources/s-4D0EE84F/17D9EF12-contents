@@ -1,8 +1,0 @@
----
-date: "2018-07-01"
-title: About Civic New Orleans Data Solutions
----
-
-Civic New Orleans Data Solutions is a firm providing analytical solutions to organizations in the Greater New Orleans area.  
-
-Specializing in the non-profit and public sectors, CNODS strives to transform data into action for the benefit of our communities.    
