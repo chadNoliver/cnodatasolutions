@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://cnodatasolutions.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "CNO Data Solutions"
@@ -67,5 +67,5 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "About"
-    url = "about/"
+    url = "about-hugo/"
     weight = 20

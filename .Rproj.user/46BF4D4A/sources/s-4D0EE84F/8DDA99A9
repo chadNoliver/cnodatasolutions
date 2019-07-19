@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4185452316",
+    "hash" : "0",
     "id" : "8DDA99A9",
-    "lastKnownWriteTime" : 1563560346,
-    "last_content_update" : 1563560346158,
+    "lastKnownWriteTime" : 1563563776,
+    "last_content_update" : 1563563776139,
     "path" : "~/cnodatasolutions/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "65,15",
-        "scrollLine" : "53"
+        "cursorPosition" : "0,41",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,
