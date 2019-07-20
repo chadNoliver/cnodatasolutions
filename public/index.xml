@@ -1,25 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CNO Data Solutions</title>
+    <title>Civic New Orleans Data Solutions</title>
     <link>/</link>
-    <description>Recent content on CNO Data Solutions</description>
+    <description>Recent content on Civic New Orleans Data Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About Civic New Orleans Data Solutions</title>
-      <link>/about-hugo/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Blog Coming Soon</title>
+      <link>/posts/blog-coming-soon/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about-hugo/</guid>
-      <description>Civic New Orleans Data Solutions is a firm providing analytical solutions to organizations in the Greater New Orleans area.
-Specializing in the non-profit and public sectors, CNODS strives to transform data into action for the benefit of our communities.</description>
+      <guid>/posts/blog-coming-soon/</guid>
+      <description>Blog Coming Soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About CNO Data Solutions</title>
+      <link>/about/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Civic New Orleans Data Solutions is dedicated to empowering community organizations with quantitative support. CNODC will work with your organziation to find the empirical evidence that your organization needs to transform data into action. We specialize in creating data dashboards, dynamic reports, and web applications from a variety of public health data sources. For a brief consultaion, please reach us below:
+Phone: 504.581.8389
+Email: contact@cnodatasolutions.com</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>

@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Civic New Orleans Data Solutions</title>
+		<link>/posts/</link>
+		<description>Recent content in Posts on Civic New Orleans Data Solutions</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+		<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Blog Coming Soon</title>
+			<link>/posts/blog-coming-soon/</link>
+			<pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+			
+			<guid>/posts/blog-coming-soon/</guid>
+			<description>Blog Coming Soon&amp;hellip;</description>
+			<content type="html"><![CDATA[<p>Blog Coming Soon&hellip;</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
