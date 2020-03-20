@@ -1,7 +1,7 @@
 ---
 title: Blog Coming Soon
 author: ~
-date: '2019-07-08'
+date: '2020-03-01'
 slug: Blog-Coming-Soon
 categories: []
 tags: []
